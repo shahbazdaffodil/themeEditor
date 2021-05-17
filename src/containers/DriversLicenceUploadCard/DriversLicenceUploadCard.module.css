@@ -1,0 +1,7 @@
+.imgSection {
+    display: flex;
+    justify-content: center;
+}
+.imgContainer {
+    width: 90px;
+}
